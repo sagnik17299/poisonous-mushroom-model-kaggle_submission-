@@ -1,1 +1,1 @@
-Kaggle competition submission model
+Kaggle competition submission model.Not properly optimised.
