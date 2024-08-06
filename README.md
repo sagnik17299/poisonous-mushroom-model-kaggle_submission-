@@ -1,1 +1,1 @@
-# poisonous-mushroom-model-kaggle_submission-
+Kaggle competition submission model
